@@ -1,0 +1,21 @@
+.word-search{
+    background-color: chartreuse;
+    padding: 5px;
+}
+#chatbox{
+    width: 400px;
+    padding: 8px;
+}
+.chat{
+    margin-top: 8px;
+    margin-bottom: 8px;
+    height: 300px;
+    padding: 10px;
+    background-color: rgb(255, 247, 247);
+}
+.query-title{
+    background-color: greenyellow;
+    border-radius: 5px;
+    text-align: center;
+    padding: 5px;
+}
